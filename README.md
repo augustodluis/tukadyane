@@ -192,9 +192,16 @@ composer test
 5. Crie um Pull Request 
 
 
-## 📄 Licença
-MIT License
+📜 Licença
+Este projeto está licenciado sob a MIT License.
+👨‍💻 Autor
 
+Augusto D. Luis - aluis.mz@yahoo.com
+
+🙏 Agradecimentos
+
+Geocoder PHP - por fornecer a base para este projeto
+Nominatim - serviço de geocodificação Open Source
 
 
 
