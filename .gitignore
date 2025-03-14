@@ -1,0 +1,30 @@
+
+---
+
+### **2. `.gitignore`**
+
+Este arquivo define quais arquivos e pastas devem ser ignorados pelo Git, como dependências do Composer e arquivos de ambiente.
+
+```gitignore
+# Ignora a pasta de dependências do Composer
+/vendor/
+
+# Ignora arquivos de ambiente
+.env
+
+# Ignora arquivos de configuração local
+/config/local.php
+
+# Ignora arquivos de cache
+/.phpunit.result.cache
+
+# Ignora arquivos de IDE
+/.idea/
+/.vscode/
+
+# Ignora logs
+/logs/
+*.log
+
+# Ignora arquivos gerados pelo Composer
+/composer.lock
